@@ -81,7 +81,7 @@ The table below summarizes our experimental findings:
 ---
 
 ### Visualization
-![comparision_plot](https://github.com/genilab-fau/genilab-fau.github.io/blob/8d6ab41403b853a273983e4c06a7e52229f43df5/images/genilab-banner.png?raw=true)
+![comparision_plot](https://github.com/sai-mudike/Gen-ai_assignment-2/blob/main/images/comparision_plot.png)
 
 ---
 
