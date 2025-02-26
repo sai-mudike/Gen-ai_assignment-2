@@ -1,18 +1,18 @@
-# Assignment 2 – Hands-On Prompt Engineering for Requirement Analysis  
+# **Assignment 2 – Practical Learning in Prompt Engineering for Requirement Analysis**  
 
-## Overview  
+## **Overview**  
 
-This project is part of Assignment 2 – Hands-On Prompt Engineering for Requirement Analysis. The objective is to explore various prompt engineering techniques to automate and enhance the requirement analysis process. By leveraging AI-driven prompting methods, the project aims to improve efficiency, accuracy, and completeness in extracting software requirements.  
+This project is part of Assignment 2, which helps us learn prompt engineering through practical work. The main goal is to explore different ways to make requirement analysis simple and effective. The project helps improve the accuracy and clarity of software requirement extraction by using structured prompts.  
 
-The experiments are conducted using Ollama, an AI model execution platform, to generate, refine, and analyze requirements using structured prompts. The techniques tested include Zero-Shot, Few-Shot, Chain-of-Thought, Self-Consistency, and various levels of Automated Prompting.  
+For this, experiments were done using Ollama, a platform for running AI models, to generate and refine software requirements. Different techniques were tested, such as Zero-Shot, Few-Shot, Chain-of-Thought, Self-Consistency, and Automated Prompting.  
 
-## Use Case – Pastpal  
+### **Use Case – Pastpal**  
 
-Pastpal is a Discord-based chatbot designed to assist students in learning history in an interactive and engaging manner. The chatbot simplifies complex historical events, concepts, and timelines, making them easier to understand. To enhance its development, AI-driven prompt engineering is applied to automate the requirement analysis process, ensuring clear, structured, and comprehensive requirement documentation.  
+Pastpal is a Discord chatbot that helps students learn history in a fun and engaging way. It breaks down complex historical events, concepts, and timelines into simple explanations. To improve the chatbot, structured prompt techniques were used to analyze requirements and keep the documentation clear and well-organized. 
 
-## Techniques Explored  
+## **Techniques Explored**  
 
-The following prompt engineering techniques were tested and analyzed in this project:  
+The project tested and studied different prompt engineering techniques, including:  
 
 - Zero-Shot Prompting  
 - Self-Consistency Prompting  
@@ -25,18 +25,18 @@ The following prompt engineering techniques were tested and analyzed in this pro
 - Recursive Prompting  
 - Contrastive Prompting  
 - Iterative Refinement Prompting  
-- Level-0, Level-1, and Level-2 Automated Prompting for Requirement Analysis  
+- Automated Prompting (Level-0, Level-1, and Level-2) for Requirement Analysis  
 
-Each technique was evaluated based on accuracy, response latency, and completeness in requirement extraction.  
+Each method was evaluated based on how accurately it extracted requirements, how quickly it responded, and how complete the results were.  
 
-## Implementation  
+## **Implementation**  
 
-This project utilizes Ollama for executing AI models and generating automated responses. Different prompting strategies were tested by varying model parameters to optimize performance. The results demonstrate how AI-driven requirement analysis can improve the software development process.  
+Ollama was used in this project to run AI models and generate automated responses. Various prompting methods were tried, such as changing model settings to improve the outcomes. The results highlight how structured prompts can help make requirement analysis more straightforward and effective in software development.  
 
-## Reference  
+## **Reference**  
 
-For more details on Prompt Engineering techniques and best practices, refer to:  
+For more details on prompt engineering techniques, refer to:  
 - [Prompt Engineering Lab – GenILab](https://github.com/genilab-fau/prompt-eng)  
 - [Ollama – AI Model Execution](https://ollama.ai/)  
 
-For a deeper exploration of the research findings and experimental results, refer to the full [report](https://github.com/sai-mudike/Gen-ai_assignment-2/blob/main/MY-REPORT.md).  
+To check the results of the entire research and experiment, see the [report](https://github.com/sai-mudike/Gen-ai_assignment-2/blob/main/MY-REPORT.md).
