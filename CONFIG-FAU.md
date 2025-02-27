@@ -15,7 +15,7 @@ You have a more options (than the general public) for this configuration:
 * (Option 1): Install both **Prompt Engineering Lab** and **OLLAMA Server** on the same computer (RECOMMENDED)
 * (Option 2): Install **Prompt Engineering Lab** on one computer and use the **OLLAMA Server** installed on other computer in the same network (or accessible through the Internet, if feasible)
 * (Option 3): Install **Prompt Engineering Lab** on your computer and integrate to [chat.hpc.fau.edu](https://chat.hpc.fau.edu).(SECOND BEST)
-* (Option 4): Execute the **Prompt Engineering Lab** through [MyBinder.org](http://mybinder.org)**, using the links to Binder Notebooks in every exercise and integrate to [chat.hpc.fau.edu](https://chat.hpc.fau.edu).(SECOND BEST)
+* (Option 4): Execute the **Prompt Engineering Lab** through [MyBinder.org](http://mybinder.org)**, using the links to Binder Notebooks in every exercise and integrate to [chat.hpc.fau.edu](https://chat.hpc.fau.edu) (SECOND BEST)
 
 We recommend using [Visual Code Studio](https://code.visualstudio.com) and installing everything on your computer.
 
