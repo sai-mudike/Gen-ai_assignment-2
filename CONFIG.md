@@ -23,7 +23,7 @@ For both options, the installation steps include:
 * (Step 1) Bringing up **Ollama Server**
 * (Step 2) Downloading **Prompt Engineering Lab** on your computer
 * (Step 3) Connecting the **Prompt Engineering Lab** with the **Ollama Server**
-* (Step 4) Test the Environment
+* (Step 4) Test the Environment.
 
 
 
