@@ -18,7 +18,7 @@ To start contributing, follow the instructions in the `How to Configure the Lab 
 # 🚨 Immediate Help 🚨
 
 **Update** the ready-to-go techniques with relevant examples in Requirement Analysis:  
-> *Note: The current templates contain placeholder examples involving math tests.*
+> *Note: The current templates contain placeholder examples involving math tests*
 
 * Update [Zero Shot](prompt-eng/zero_shot.ipynb)
 * Update [Few Shot](prompt-eng/few_shots.ipynb)
