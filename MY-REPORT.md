@@ -30,7 +30,7 @@ How can we use **Prompt Engineering** techniques to automate and optimize the **
 ### **Implications for Practice**  
 - **Improves efficiency** in requirement analysis.  
 - **Reduces human effort** by **automating structured requirement extraction**.  
-- **Enhances AI’s ability** to generate **accurate, complete, and contextually relevant** requirements.  
+- **Enhances AI’s ability** to generate **accurate, complete, and contextually relevant** requirements  
 
 ---
 
