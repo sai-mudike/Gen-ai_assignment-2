@@ -39,4 +39,4 @@ For more details on prompt engineering techniques, refer to:
 - [Prompt Engineering Lab – GenILab](https://github.com/genilab-fau/prompt-eng)  
 - [Ollama – AI Model Execution](https://ollama.ai/)  
 
-To check the results of the entire research and experiment, see the [report](https://github.com/sai-mudike/Gen-ai_assignment-2/blob/main/MY-REPORT.md).
+To check the results of the entire research and experiment, see the [report.](https://github.com/sai-mudike/Gen-ai_assignment-2/blob/main/MY-REPORT.md).
